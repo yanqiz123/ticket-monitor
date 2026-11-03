@@ -1,0 +1,65 @@
+{
+ "code": 0,
+ "data": {
+  "name": "上海·Sold Out、Wildfire 原唱 Jon Steingard 2026演唱会",
+  "sale_start": 1783315800,
+  "screen_list": [
+   {
+    "name": "2026年12月4日 20:00",
+    "start_time_str": "2026-12-04",
+    "ticket_list": [
+     {
+      "id": 905249,
+      "desc": "180（超级早鸟票）",
+      "price": 18000,
+      "num": 0,
+      "sale_flag": {
+       "number": 4,
+       "display_name": "已售罄"
+      }
+     },
+     {
+      "id": 905234,
+      "desc": "230（早鸟票）",
+      "price": 23000,
+      "num": 0,
+      "sale_flag": {
+       "number": 4,
+       "display_name": "已售罄"
+      }
+     },
+     {
+      "id": 905296,
+      "desc": "280（正价票）",
+      "price": 28000,
+      "num": 0,
+      "sale_flag": {
+       "number": 4,
+       "display_name": "已售罄"
+      }
+     },
+     {
+      "id": 905393,
+      "desc": "480（早鸟VIP）",
+      "price": 48000,
+      "num": 0,
+      "sale_flag": {
+       "number": 4,
+       "display_name": "已售罄"
+      }
+     },
+     {
+      "id": 905356,
+      "desc": "580（VIP）",
+      "price": 58000,
+      "num": 0,
+      "sale_flag": {
+       "number": 4,
+       "display_name": "已售罄"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}
